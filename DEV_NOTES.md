@@ -9,3 +9,7 @@ Personal development log — notes, findings, and ongoing work.
 - Cross-checked behaviour against spec
 - Reviewed security headers configuration
 - Fixed off-by-one error in loop
+
+## 2026-03-23
+- Removed unused variable declarations
+- Refactored module structure for clarity
